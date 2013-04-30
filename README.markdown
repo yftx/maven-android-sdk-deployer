@@ -1,8 +1,8 @@
 Maven Android SDK Deployer
 --------------------------
 
-**only install compatibility lib**
-
+*only install compatibility lib*
+------------------
 
 Author and Project Maintainer including numerous fixes and changes:
 

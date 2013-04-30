@@ -1,6 +1,9 @@
 Maven Android SDK Deployer
 --------------------------
 
+**only install compatibility lib**
+
+
 Author and Project Maintainer including numerous fixes and changes:
 
 Manfred Moser manfred@simpligility.com  at [simpligility technologies inc](http://www.simpligility.com)

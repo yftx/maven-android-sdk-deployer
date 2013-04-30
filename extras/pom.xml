@@ -69,6 +69,7 @@
             <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
+<!--
             <modules>
                 <module>compatibility-v4</module>
                 <module>compatibility-v7-gridlayout</module>
@@ -79,6 +80,13 @@
                 <module>google-play-services</module>
                 <module>play-licensing</module>
                 <module>play-apk-expansion</module>
+            </modules>
+-->
+<!-- 只构建suppor包其他的不构建，需要构建只需复制上面的即可 -->
+            <modules>
+                <module>compatibility-v4</module>
+                <module>compatibility-v7-gridlayout</module>
+                <module>compatibility-v13</module>
             </modules>
         </profile>
     </profiles>

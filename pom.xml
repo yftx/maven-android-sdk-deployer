@@ -102,10 +102,16 @@
         </pluginManagement>
     </build>
 
+<!--
     <modules>
         <module>platforms</module>
         <module>add-ons</module>
         <module>extras</module>
         <module>tools</module>
+    </modules>
+-->
+<!-- 只构建support包 如需构建其他版本的包，只需要将子module改为上面的包即可 -->
+    <modules>
+        <module>extras</module>
     </modules>
 </project>
